@@ -1,0 +1,171 @@
+{
+    "categories" : [
+    
+    ],
+      "products":     [
+        {
+            "id": 1,
+            "title": "Nintendo Switch",
+            "price": 300,
+            "image": "https://imgs.search.brave.com/pW4c42uCtDyXfm93WrSPKgo-ejzZQRyYV1hfRbvutLQ/rs:fit:1200:700:1/g:ce/aHR0cHM6Ly9zdGF0/aWMzLmdhbWVyYW50/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDYv/bmludGVuZG8tc3dp/dGNoLWNvbnNvbGUu/anBn",
+            "description": "La Nintendo Switch est une console de jeux vidéo hybride développée par Nintendo.",
+            "slug": "nintendo-switch",
+            "category": "Jeux video"
+        },
+        {
+            "id": 2,
+            "title": "PlayStation 5",
+            "price": 500,
+            "image": "https://imgs.search.brave.com/5vHwQ_AmxozeHhs093xwyx2KQWHjB0SlsaxbxNrpT54/rs:fit:1200:750:1/g:ce/aHR0cHM6Ly9pbWcu/cGhvbmFuZHJvaWQu/Y29tLzIwMjEvMDIv/cHM1LWJ1Zy1ldHJh/bmdlLWluc3RhbGxh/dGlvbi5qcGc",
+            "description": "La PlayStation 5 est une console de jeux vidéo de salon développée par Sony Interactive Entertainment.",
+            "slug": "playstation-5",
+            "category": "Jeux video"
+        },
+        {
+            "id": 3,
+            "title": "Xbox Series X",
+            "price": 500,
+            "image": "https://imgs.search.brave.com/vuS-K2HxUoGOfREF9MCIjz9vq1onVMuB9xo9k_UxaZM/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHVzaHNxdWFy/ZS5jb20vZDUzZTIz/MWQyOGU0ZS94Ym94/LXNlcmllcy14LW1p/Y3Jvc29mdC10aGUt/Z2FtZS1hd2FyZHMt/MS5vcmlnaW5hbC5q/cGc",
+            "description": "L'Xbox Series X est une console de jeux vidéo de salon développée par Microsoft.",
+            "slug": "xbox-series-x",
+            "category": "Jeux video"
+        },
+    
+        {
+            "id": 4,
+            "title": "Razer Blade 15",
+            "price": 2000,
+            "image": "https://imgs.search.brave.com/D4GMcovVs4WfpcJ-buPekaQgf58yJGPqPGLPr1FWnT4/rs:fit:1200:1028:1/g:ce/aHR0cHM6Ly9jZG4u/d2NjZnRlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA5L1JhemVyLUJs/YWRlLTE1LTIuanBn",
+            "description": "Le Razer Blade 15 est un ordinateur portable de jeu puissant et élégant.",
+            "slug": "razer-blade-15",
+            "category": "Ordinateur"
+          },
+          {
+            "id": 5,
+            "title": "Oculus Quest 2",
+            "price": 400,
+            "image": "https://imgs.search.brave.com/N1yi6yNQJBlMmbGyFrxDWXA7eJQ12L8sVzn-sxFfzfE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nYW1p/bmdib2x0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/OS9vY3VsdXMtcXVl/c3QtMi1pbWFnZS02/LmpwZw",
+            "description": "L'Oculus Quest 2 est un casque de réalité virtuelle autonome développé par Oculus.",
+            "slug": "oculus-quest-2",
+            "category": "VR"
+          },
+          {
+            "id": 6,
+            "title": "Alienware Aurora R12",
+            "price": 1500,
+            "image": "https://imgs.search.brave.com/SQfz0fbtL2N2y1VlPKJgSYIDgpg0IA_wErYwgszHFjI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3N0YXRl/bGVzcy13d3ctcmVh/bGhhcmR3YXJlcmV2/aS8yMDIxLzA3L0Fs/aWVud2FyZS1BdXJv/cmEtUjEyLUZyb250/LXNjYWxlZC5qcGc",
+            "description": "L'Alienware Aurora R12 est un ordinateur de bureau de jeu haut de gamme.",
+            "slug": "alienware-aurora-r12",
+            "category": "Ordinateur"
+          },
+          {
+            "id": 7,
+            "title": "Logitech G29 Driving Force Racing Wheel",
+            "price": 300,
+            "image": "https://imgs.search.brave.com/EcgC1nUAiHyN7N8oZ6Ih0_dQOYqTANlI69suXffLUnY/rs:fit:1024:768:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzE4/NTkvMDE0OS9wcm9k/dWN0cy9Mb2dpdGVj/aF9HX0RyaXZpbmdf/Rm9yY2VfUmFjaW5n/X1doZWVsX0cyOV9Q/UzRQUzNQQ18xXzEw/MjR4MTAyNC5qcGVn/P3Y9MTU2MDgyODIy/MQ",
+            "description": "Le Logitech G29 Driving Force Racing Wheel est un volant de course pour les jeux de simulation de conduite.",
+            "slug": "logitech-g29-driving-force-racing-wheel",
+            "category": "Jeux video"
+          },
+          {
+            "id": 8,
+            "title": "SteelSeries Arctis 7",
+            "price": 150,
+            "image": "https://imgs.search.brave.com/GjKm1ts36una5eeI5qirTYRWFLj7LtAgHoILifACsEw/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9C/WWJTR0JpMWJCQS9t/YXhyZXNkZWZhdWx0/LmpwZw",
+            "description": "Le SteelSeries Arctis 7 est un casque de jeu sans fil pour PC et consoles.",
+            "slug": "steelseries-arctis-7",
+            "category": "Casque"
+          },
+          {
+            "id": 9,
+            "title": "ASUS ROG Zephyrus G15",
+            "price": 1700,
+            "image": "https://imgs.search.brave.com/DxqL4L6yi4h1VgC29uswfX_Zwhha86UvSzcOPWSasIk/rs:fit:1200:886:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tLVlpaEN1S3JR/Y2cvWDJ4Q3VISzBp/QUkvQUFBQUFBQUFL/UWsvMk1sVkdRNmJw/LTQ2cFNELTZOblZl/QkJjMVd2Mi1LbGln/Q05jQkdBc1lIUS9z/MTQwMC9BU1VTJTJC/Uk9HJTJCWmVwaHly/dXMlMkJHMTUlMkJH/QTUwMklWLUFaMDQw/VC5wbmc",
+            "description": "L'ASUS ROG Zephyrus G15 est un ordinateur portable de jeu puissant et léger.",
+            "slug": "asus-rog-zephyrus-g15",
+            "category": "Ordinateur"
+          },
+          {
+            "id": 10,
+            "title": "HyperX Cloud Stinger",
+            "price": 50,
+            "image": "https://imgs.search.brave.com/jTEpyzGd9-XChtEXu6muwiUZUQG7IYcF9IgUJ6PCaBM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly90ZWNo/Z2FtaW5nLm5sL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzEw/L0h5cGVyWC1DbG91/ZC1TdGluZ2VyLVMu/anBlZw",
+            "description": "Le HyperX Cloud Stinger est un casque de jeu léger et confortable pour PC et consoles.",
+            "slug": "hyperx-cloud-stinger",
+            "category": "Casque"
+          },
+          {
+            "id": 11,
+            "title": "Acer Predator XB273K",
+            "price": 800,
+            "image": "https://imgs.search.brave.com/E-DjTNGrtM9ynmNQLsW60d-YlFM2TGydTvA6zYNGBGY/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMxLmlnbmltZ3Mu/Y29tLzIwMTkvMDEv/MjkvYWNlcm1vbml0/b3ItYmxvZ3JvbGwt/MTU0ODc4MzM1NDEx/NS5qcGc_d2lkdGg9/MTI4MA",
+            "description": "L'Acer Predator XB273K est un écran de jeu 4K UHD avec une fréquence de rafraîchissement rapide.",
+            "slug": "acer-predator-xb273k",
+            "category": "Ecran"
+          },
+          {
+            "id": 12,
+            "title": "Corsair K95 RGB Platinum XT",
+            "price": 200,
+            "image": "https://imgs.search.brave.com/BeD4ysmXwZx1nTl377zDGipEh5y6Mwb6S0xeOQQuqf4/rs:fit:1024:576:1/g:ce/aHR0cHM6Ly9pbWdz/LnNlY3Rvci5zay9m/aWxlcy9yZWNlbnpp/ZS8yMDIwMjE0MTAx/MDMzMDkvY29yc2Fp/ci1rOTUtcmdiLXBs/YXRpbnVtLXh0LTc2/Nzk0OTQtNDEtMTky/MC5qcGc",
+            "description": "Le Corsair K95 RGB Platinum XT est un clavier de jeu mécanique haut de gamme.",
+            "slug": "corsair-k95-rgb-platinum-xt",
+            "category": "Clavier"
+          },
+          {
+            "id": 13,
+            "title": "Roccat Kain 120 AIMO",
+            "price": 70,
+            "image": "https://imgs.search.brave.com/CJAVYWX5fEeAlwg0XBHa4qwoiuOF7Q8i1fR2XCyS94M/rs:fit:1068:568:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZWZmZW1l/cmlkZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDEv/Um9jY2F0LUthaW4t/MTIwLUFJTU8tYS12/ZXJ5LWZhc3QtZ2Ft/aW5nLW1vdXNlLXNj/YWxlZC5qcGc_Zml0/PTEwNjglMkM1Njgm/c3NsPTE",
+            "description": "Le Roccat Kain 120 AIMO est un souris de jeu ergonomique avec une précision rapide.",
+            "slug": "roccat-kain-120-aimo",
+            "category": "Souris"
+          },
+          {
+            "id": 14,
+            "title": "Logitech G Pro X Mechanical Gaming Keyboard",
+            "price": 150,
+            "image": "https://imgs.search.brave.com/IQvgulQDDDeA_NIJIJ89MySh8E4Z0HmrOcW4JJfHBY0/rs:fit:800:451:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMuaGFyZHdhcmV6/b25lLmNvbS9pbWcv/MjAxOS8xMC9sb2dp/dGVjaC1nLXByby14/LWtleWJvYXJkLTMu/anBn",
+            "description": "Le Logitech G Pro X Mechanical Gaming Keyboard est un clavier mécanique de jeu professionnel avec un design compact.",
+            "slug": "logitech-g-pro-x",
+            "category": "Clavier"
+          },
+          {
+            "id": 15,
+            "title": "SteelSeries Apex Pro TKL",
+            "price": 250,
+            "image": "https://images.unsplash.com/photo-1636036798069-195bd06f340c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+            "description": "Le SteelSeries Apex Pro TKL est un clavier mécanique de jeu avec un réglage personnalisable de la force d'activation des touches.",
+            "slug": "steelseries-apex-pro-tkl",
+            "category": "Clavier"
+          },
+          {
+            "id": 16,
+            "title": "Razer Huntsman Elite",
+            "price": 200,
+            "image": "https://imgs.search.brave.com/YMt50HeB23SoiZj9LWu8qLdJNKCOZHSIAIVSqSlhaLM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWRnZXNnLm5l/dC9pbWFnZXMvYXJ0/aWNsZS8yMDE4LzA3/L2ltZ18yMDE4MDcw/Nl8yMDI1NTctMTAw/NzY0NDg1LW9yaWcu/anBn",
+            "description": "Le Razer Huntsman Elite est un clavier mécanique de jeu avec des touches optiques pour une réponse rapide et précise.",
+            "slug": "razer-huntsman-elite",
+            "category": "Clavier"
+          },
+          {
+            "id": 17,
+            "title": "Logitech G Pro Wireless Gaming Mouse",
+            "price": 150,
+            "image": "https://imgs.search.brave.com/RvnmhiXD2bvI7K_9lb9mJE1wP8So5hgA8hRE_3pX5Qg/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/cGMtYm9vc3QuY29t/L25ld3MvdXBsb2Fk/LzM1X1NlcHRlbWJl/cl8yMDE4L2dfcHJv/X3dpcmVsZXNzMV9n/cmFuZGUuSlBH",
+            "description": "La Logitech G Pro Wireless Gaming Mouse est une souris de jeu sans fil ergonomique pour une précision rapide.",
+            "slug": "logitech-g-pro-wireless",
+            "category": "Souris"
+          },
+          {
+            "id": 18,
+            "title": "Razer DeathAdder Elite",
+            "price": 70,
+            "image": "https://imgs.search.brave.com/6kHn-RZHqsCBIXcylWwkHbhD4XtUffDpmgHyXuJgKXg/rs:fit:968:648:1/g:ce/aHR0cDovL3d3dy5n/YWRnZXRkZXRhaWwu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE2LzEwL3JhemVy/LWRlYXRoYWRkZXIt/ZWxpdGUuanBn",
+            "description": "La Razer DeathAdder Elite est une souris de jeu ergonomique avec une précision rapide et un design confortable.",
+            "slug": "razer-deathadder-elite",
+            "category": "Souris"
+          }
+    ]
+    
+    }
